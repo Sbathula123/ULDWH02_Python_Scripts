@@ -1,0 +1,9 @@
+numpy==1.15.2
+openpyxl==3.0.9
+pandas==0.23.4
+pymssql==2.1.4
+pyodbc==4.0.23
+requests==2.19.1
+SQLAlchemy==1.2.14
+virtualenv==15.1.0
+xlrd==1.2.0

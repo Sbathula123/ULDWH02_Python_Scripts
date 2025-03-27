@@ -1,0 +1,345 @@
+2022-04-20 13:24:20,791 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-04-20 13:24:35,589 [Cover-More data (DEBUG)] Archive file already exists. This indicates that the script has already ran today successfully, and therefore any rerun on the same day poses a high risk of data duplication. As such, this script will now close without error.
+2022-04-20 13:30:07,478 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-04-20 13:30:21,692 [Cover-More data (DEBUG)] Created archive directory:	E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\test-archive-dir\2022
+2022-04-20 13:30:37,507 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 0 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\pmdout.xlsx
+2022-04-22 11:44:47,377 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-04-22 11:45:16,719 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\pmdout.xlsx
+2022-04-29 10:59:47,153 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-04-29 11:02:06,780 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-04-29 11:02:32,141 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 1 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\pmdout.xlsx
+2022-05-02 14:39:29,284 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-02 14:39:45,325 [Cover-More data (DEBUG)] No data to add to any sheet. Job step was successful.
+2022-05-02 14:50:56,588 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-02 14:51:09,180 [Cover-More data (DEBUG)] No data to add to any sheet. Job step was successful.
+2022-05-02 14:52:46,925 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-02 14:52:52,801 [Cover-More data (DEBUG)] Created archive directory:	E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\test-archive-dir\2022
+2022-05-02 14:52:54,206 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 0 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-05-02 14:54:54,780 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-02 14:55:00,780 [Cover-More data (DEBUG)] Archive file already exists. This indicates that the script has already ran today successfully, and therefore any rerun on the same day poses a high risk of data duplication. As such, this script will now close without error.
+2022-05-03 14:06:05,345 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-03 14:06:18,140 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 0 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-05-03 14:14:33,782 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-03 14:14:43,548 [Cover-More data (DEBUG)] Archive file already exists. This indicates that the script has already ran today successfully, and therefore any rerun on the same day poses a high risk of data duplication. As such, this script will now close without error.
+2022-05-03 14:15:42,330 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-03 14:15:48,448 [Cover-More data (DEBUG)] Archive file already exists. This indicates that the script has already ran today successfully, and therefore any rerun on the same day poses a high risk of data duplication. As such, this script will now close without error.
+2022-05-06 14:06:27,269 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-06 14:07:01,583 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 11 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-05-13 11:13:33,941 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-13 11:14:12,481 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-05-20 13:34:48,362 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-20 13:35:22,157 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 6 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-05-27 09:45:23,165 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-05-27 09:45:56,849 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 19 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-06-03 13:30:17,980 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-06-03 13:31:05,095 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-06-10 10:59:11,170 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-06-10 10:59:47,716 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-06-17 09:05:11,647 [Cover-More data (DEBUG)] === Beginning Script Run ===
+2022-06-17 09:05:54,995 [Cover-More data (DEBUG)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Python Scripts\PolicyMasterData-Automation-CM\manual-testing-files\test-etl-data-dir\PolicyMasterDataDebug.xlsx
+2022-06-24 14:05:53,281 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-06-24 14:06:27,214 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-01 13:00:01,849 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-01 13:00:39,373 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 22 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-08 13:00:06,935 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-08 13:00:48,966 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 34 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-10 21:51:03,882 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-10 21:52:09,126 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 3 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-15 13:00:01,205 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-15 13:00:38,735 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 6 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-22 13:00:08,886 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-22 13:00:50,282 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-07-29 13:00:01,447 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-07-29 13:00:40,272 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 36 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-08-05 13:00:03,055 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-08-05 13:00:43,690 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 25 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-08-12 13:00:02,834 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-08-12 13:00:43,700 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 1 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-08-19 13:00:02,572 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-08-19 13:00:43,370 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-08-26 13:00:03,239 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-08-26 13:00:42,266 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 18 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-09-02 13:00:02,184 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-09-02 13:00:41,574 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-09-09 13:00:02,903 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-09-09 13:00:41,723 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-09-16 13:00:02,553 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-09-16 13:00:42,245 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 42 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-09-23 13:00:02,950 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-09-23 13:00:40,918 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-09-30 13:00:03,191 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-09-30 13:00:43,931 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 31 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-10-07 13:00:02,474 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-10-07 13:00:42,971 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-10-14 13:00:02,614 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-10-14 13:00:42,866 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 22 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-10-21 13:00:03,772 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-10-21 13:00:52,861 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 39 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-10-28 13:00:03,873 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-10-28 13:00:52,632 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-11-04 13:00:02,712 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-11-04 13:00:47,919 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-11-11 13:00:02,904 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-11-11 13:00:45,459 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-11-18 13:00:02,724 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-11-18 13:01:02,615 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-11-25 13:00:02,460 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-11-25 13:00:43,326 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 19 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-12-02 13:00:03,403 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-12-02 13:00:44,191 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 3 new row(s). Outlet sheet: 6 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-12-09 13:00:03,533 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-12-09 13:00:45,936 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-12-16 13:00:02,990 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-12-16 13:00:51,104 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 18 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-12-23 13:00:03,079 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-12-23 13:00:54,965 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 59 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2022-12-30 13:00:03,202 [Cover-More data (PROD)] === Beginning Script Run ===
+2022-12-30 13:00:18,896 [Cover-More data (PROD)] No data to add to any sheet. Job step was successful.
+2023-01-06 13:00:05,683 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-01-06 13:00:40,412 [Cover-More data (PROD)] Created archive directory:	E:ETL\Data\Archive\PolicyMasterData\2023
+2023-01-06 13:01:11,165 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 0 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-01-13 13:00:03,478 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-01-13 13:00:45,999 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-01-20 13:00:02,526 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-01-20 13:00:43,848 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 18 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-01-27 13:00:03,145 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-01-27 13:00:45,178 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-02-03 13:00:02,708 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-02-03 13:00:43,927 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-02-10 13:00:02,733 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-02-10 13:00:43,566 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 6 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-02-17 13:00:02,548 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-02-17 13:00:42,175 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 14 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-02-24 13:00:03,256 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-02-24 13:00:43,121 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 22 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-03-03 13:00:03,212 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-03-03 13:00:51,122 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-03-10 13:00:03,010 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-03-10 13:00:49,034 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-03-17 13:00:03,157 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-03-17 13:00:51,784 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-03-24 13:00:02,790 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-03-24 13:00:48,537 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 2 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-03-31 13:00:02,982 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-03-31 13:00:53,542 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 19 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-04-07 13:00:03,923 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-04-07 13:00:56,024 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 26 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-04-14 13:00:02,837 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-04-14 13:00:44,695 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-04-21 13:00:02,874 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-04-21 13:00:45,090 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 8 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-04-28 13:00:04,075 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-04-28 13:00:44,043 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 4 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-05-05 13:00:02,694 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-05 13:00:45,632 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-05-11 11:49:32,352 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-11 11:50:06,139 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-05-11 12:00:04,565 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-11 12:00:14,685 [Cover-More data (PROD)] Archive file already exists. This indicates that the script has already ran today successfully, and therefore any rerun on the same day poses a high risk of data duplication. As such, this script will now close without error.
+2023-05-12 13:00:02,491 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-12 13:00:45,920 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 1 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-05-19 13:00:02,617 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-19 13:00:44,221 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-05-26 13:00:03,576 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-05-26 13:00:45,593 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-06-02 13:00:02,644 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-06-02 13:01:02,094 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 18 new row(s). Outlet sheet: 25 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-06-09 13:00:02,987 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-06-09 13:01:01,590 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 25 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-06-16 13:00:02,842 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-06-16 13:00:47,503 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-06-23 13:00:03,334 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-06-23 13:00:45,682 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 58 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-06-30 13:00:02,860 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-06-30 13:01:02,274 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-07-07 13:00:02,649 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-07-07 13:00:52,468 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-07-14 13:00:02,219 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-07-14 13:00:47,431 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-07-21 13:00:02,534 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-07-21 13:00:53,769 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-07-28 13:00:03,582 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-07-28 13:00:41,328 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-08-04 13:00:03,353 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-08-04 13:00:55,664 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-08-11 13:00:02,053 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-08-11 13:00:26,633 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-08-18 13:00:01,876 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-08-18 13:00:25,990 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 19 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-08-25 13:00:02,441 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-08-25 13:00:26,621 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 2 new row(s). Outlet sheet: 11 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-09-01 13:00:01,843 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-09-01 13:00:23,819 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-09-08 13:00:01,880 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-09-08 13:00:22,510 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-09-15 13:00:01,981 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-09-15 13:00:26,406 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 9 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-09-22 13:00:01,702 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-09-22 13:00:24,565 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 263 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-09-29 13:00:02,552 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-09-29 13:00:24,753 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 2 new row(s). Outlet sheet: 23 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-10-06 13:00:01,620 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-10-06 13:00:24,059 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-10-13 13:00:02,143 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-10-13 13:00:24,812 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-10-20 13:00:02,235 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-10-20 13:00:25,364 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 79 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-10-27 13:00:02,458 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-10-27 13:00:27,206 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-11-03 13:00:02,670 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-11-03 13:00:25,478 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-11-10 13:00:02,200 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-11-10 13:00:24,280 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 12 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-11-17 13:00:02,474 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-11-17 13:00:26,207 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 18 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-11-24 13:00:02,677 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-11-24 13:00:28,075 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-12-01 13:00:01,464 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-12-01 13:00:24,269 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 13 new row(s). Outlet sheet: 41 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-12-08 13:00:01,601 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-12-08 13:00:25,094 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-12-15 13:00:01,941 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-12-15 13:00:24,843 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 12 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-12-22 13:00:01,943 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-12-22 13:00:25,365 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 15 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2023-12-29 13:00:02,265 [Cover-More data (PROD)] === Beginning Script Run ===
+2023-12-29 13:00:15,155 [Cover-More data (PROD)] No data to add to any sheet. Job step was successful.
+2024-01-05 13:00:01,376 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-01-05 13:00:12,022 [Cover-More data (PROD)] No data to add to any sheet. Job step was successful.
+2024-01-12 13:00:01,904 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-01-12 13:00:10,872 [Cover-More data (PROD)] Created archive directory:	E:ETL\Data\Archive\PolicyMasterData\2024
+2024-01-12 13:00:24,698 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 22 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-01-19 13:00:01,359 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-01-19 13:00:26,191 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 43 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-01-26 13:00:02,440 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-01-26 13:00:27,852 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 19 new row(s). Outlet sheet: 48 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-02-02 13:00:02,647 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-02 13:00:27,745 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-02-04 21:45:04,893 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-04 21:55:12,045 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-04 21:55:33,944 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 5 new row(s). 'Unmapped Alpha': 57 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-02-09 13:00:01,420 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-09 13:00:23,012 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 3 new row(s). Outlet sheet: 23 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-02-16 13:00:01,150 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-16 13:00:27,324 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 11 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-02-23 13:00:02,665 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-02-23 13:00:24,448 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 46 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-03-01 13:00:01,073 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-03-01 13:00:24,219 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 25 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-03-08 13:00:02,603 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-03-08 13:00:26,592 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-03-15 13:00:02,541 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-03-15 13:00:26,579 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 30 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-03-22 13:00:01,918 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-03-22 13:00:33,327 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 39 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-03-29 13:00:02,442 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-03-29 13:00:29,561 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 19 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-04-05 13:00:02,805 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-04-05 13:00:26,350 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 8 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-04-12 13:00:01,774 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-04-12 13:00:25,477 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-04-19 13:00:02,326 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-04-19 13:00:26,329 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-04-26 13:00:03,000 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-04-26 13:00:26,828 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-05-03 13:00:01,435 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-05-03 13:00:23,836 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 379 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-05-10 13:00:01,269 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-05-10 13:00:24,082 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 12 new row(s). Outlet sheet: 7 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-05-17 13:00:02,082 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-05-17 13:00:24,868 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 215 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-05-24 13:00:02,135 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-05-24 13:00:24,395 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-05-31 13:00:02,696 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-05-31 13:00:27,785 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 21 new row(s). Outlet sheet: 31 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-06-07 13:00:01,925 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-07 13:10:48,698 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-07 16:45:59,056 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-07 16:56:45,499 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-14 13:00:02,082 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-14 13:10:48,067 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-14 15:36:06,642 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-14 15:36:25,532 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 40 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-06-17 16:35:19,601 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-17 16:35:37,262 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 5 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-06-21 13:00:03,436 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-21 13:00:21,622 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-06-28 13:00:02,437 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-06-28 13:00:23,777 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 23 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-07-05 13:00:02,805 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-07-05 13:00:26,092 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 23 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-07-12 13:00:01,890 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-07-12 13:00:23,551 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 18 new row(s). Outlet sheet: 23 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-07-19 13:00:01,295 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-07-19 13:00:24,266 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-07-26 13:00:02,460 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-07-26 13:00:26,840 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 37 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-08-02 13:00:02,867 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-08-02 13:00:30,404 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-08-09 13:00:01,375 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-08-09 13:00:26,464 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 35 new row(s). Outlet sheet: 10 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-08-16 13:00:01,600 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-08-16 13:00:22,924 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-08-23 13:00:02,036 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-08-23 13:00:25,217 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-08-30 13:00:01,221 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-08-30 13:00:21,987 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-09-06 13:00:01,742 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-09-06 13:00:22,677 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-09-13 13:00:01,973 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-09-13 13:00:26,482 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-09-20 13:00:01,771 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-09-20 13:00:20,627 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 4 new row(s). Outlet sheet: 33 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-09-27 13:00:02,127 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-09-27 13:00:26,514 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 28 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-10-04 13:00:01,947 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-10-04 13:00:20,946 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 2 new row(s). Outlet sheet: 31 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-10-11 13:00:02,212 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-10-11 13:00:23,320 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-10-18 13:00:01,645 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-10-18 13:00:22,243 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 2 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-10-25 13:00:02,360 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-10-25 13:00:27,868 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 21 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-11-01 13:00:01,563 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-11-01 13:00:22,964 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 8 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-11-08 13:00:02,785 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-11-08 13:00:44,776 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-11-15 13:00:02,409 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-11-15 13:00:21,051 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 48 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-11-22 13:00:02,169 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-11-22 13:00:25,457 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 20 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-11-29 13:00:02,208 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-11-29 13:00:22,248 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 12 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-12-06 13:00:02,045 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-12-06 13:00:25,313 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-12-13 13:00:02,636 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-12-13 13:00:19,943 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 8 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-12-20 13:00:02,527 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-12-20 13:00:21,406 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 5 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2024-12-27 13:00:02,898 [Cover-More data (PROD)] === Beginning Script Run ===
+2024-12-27 13:00:23,112 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 3 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-01-03 13:00:01,681 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-01-03 13:00:09,505 [Cover-More data (PROD)] Created archive directory:	E:ETL\Data\Archive\PolicyMasterData\2025
+2025-01-03 13:00:24,819 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 3 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-01-10 13:00:04,209 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-01-10 13:00:23,161 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-01-17 13:00:02,606 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-01-17 13:00:25,808 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 6 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-01-24 13:00:02,818 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-01-24 13:00:22,868 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 29 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-01-31 13:00:02,034 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-01-31 13:00:25,205 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 8 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-02-07 13:00:02,134 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-02-07 13:00:24,700 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 38 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-02-14 13:00:02,477 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-02-14 13:00:23,931 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 13 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-02-21 13:00:02,588 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-02-21 13:00:30,155 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 17 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-02-28 13:00:02,623 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-02-28 13:00:25,269 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 6 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-03-07 13:00:02,742 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-03-07 13:00:25,976 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 40 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-03-14 13:00:02,702 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-03-14 13:00:23,574 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 14 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
+2025-03-21 13:00:02,545 [Cover-More data (PROD)] === Beginning Script Run ===
+2025-03-21 13:00:23,573 [Cover-More data (PROD)] Saved pmd updates to file. Product sheet: 0 new row(s). Outlet sheet: 16 new row(s). 'Unmapped Alpha': 0 row(s) re-added. Filename: E:\ETL\Data\PolicyMasterData.xlsx
