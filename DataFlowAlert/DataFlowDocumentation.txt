@@ -1,0 +1,50 @@
+The data flow process is meticulously designed to monitor the influx of data from various partners, aiming to identify and flag any irregular patterns effectively. Initially, historical data is retrieved to analyze the mean and standard deviation of data inflow, providing crucial insights such as mean standard deviation  into typical data flow trends across all partners.
+
+After retrieving the historical data, the next essential step involves removing outliers from the dataset. We remove outliers to ensure the stability and accuracy of our statistical measures, such as the standard deviation and mean. Abrupt fluctuations in the data can significantly distort these metrics, leading to erroneous assessments. For instance, without outlier removal, the calculated lower threshold may erroneously dip into negative values due to sudden spikes or drops in the dataset. Thus, by eliminating outliers, we maintain the integrity of our analyses and prevent skewed interpretations caused by anomalous data points.And by eliminating outliers, the analysis can focus on the core data distribution, ensuring that sudden spikes or anomalous behaviors do not unduly influence the calculated mean and standard deviation.
+
+Following the removal of outliers, the refined dataset serves as the basis for computing both the upper and lower threshold and means. These thresholds are instrumental in identifying significant deviations from the expected data flow patterns.
+
+Leveraging these calculated thresholds, a comprehensive dataframe is constructed to encapsulate essential metrics, including the current day's inflow data count from each partner. Subsequently, this meticulously crafted dataframe is dispatched to the database, enriching the analytics repository with real-time insights into partner data inflows.
+
+Finally, the dataframe is forwarded to the analytics table within the database, serving as a repository for the refined dataset. This facilitates further analysis and provides insights into the overall data flow patterns, contributing to informed decision-making processes.
+
+DataFlow Python File Description:-
+
+Data flow has 3 files
+1) config.yml - This file contains all the essential environment variables, including the server name
+2) generic_modules.py - This file has all the general functions
+3) data_inflow_analysis.py - This is thw file where all the modules are called from geting historical data to getting one day previous data to sending the data to table.
+
+The first step is to get the historical data from the query:
+sql="""select year(IssueDate) 'Year',month(IssueDate) 'Month',day(IssueDate) 'Day',\
+    o.GroupName,count(p.PolicyNumber) as count from penPolicy p join penOutlet\
+          o on p.OutletAlphaKey = o.OutletAlphaKey\
+            where OutletStatus = 'Current' and year(IssueDate) = '2023'\
+                group by year(IssueDate),month(IssueDate),day(IssueDate),o.GroupName"""
+
+After the query run is successful then a data frame is created from the optput data of the query. Then historical_data_stats_df data frame is created from the data retrieved by the query.
+
+The subsequent step involves retrieving the data from the previous day:
+sql_query = f"""
+select year(IssueDate) 'Year',month(IssueDate) 'Month',day(IssueDate) 'Day',
+    o.GroupName,count(p.PolicyNumber) as count from penPolicy p join penOutlet
+          o on p.OutletAlphaKey = o.OutletAlphaKey
+            where OutletStatus = 'Current' and convert(varchar(20),IssueDate,23) = {"'"+ str(one_day_before_date)+ "'"}
+                group by year(IssueDate),month(IssueDate),day(IssueDate),o.GroupName
+"""
+In the above query, the variable one_day_before_date holds the date corresponding to the day immediately preceding the current date. This variable facilitates the retrieval of data from the database for the day prior to the current date.
+
+Then a final merged data frame is created using the data frames historical_data_stats_df, one_day_before_data.
+Finally keeping the columns in the merged data frame are: Date,Partner, UpperThreshold,LowerThreshold,IncomingDataCount 
+
+Then data in the merged data frame is sent to the table tbl_recon_analytics.
+
+Note:
+1) The query written to fetch the historical data must have the fields name as  Year,Month,Day,GroupName,count, otherwise you can land into some error then please fix the error accoedingly.
+2) The formula used for calculating upper and lower threshold:
+        # Calculate upper and lower thresholds based on mean and standard deviation of filtered data
+        outlier_threshold_upper = outlier_mean_value + std_dev_multiplier * outlier_std_deviation
+        outlier_threshold_lower = outlier_mean_value -  outlier_std_deviation
+So, if you find any devation in the calculated upper and lower threshold, please try changing the std_dev_multiplier value, as of now I've not kept any std_dev_multiplier in the lower threshold, if you feel the lower threshold is not accurate then change the formula to:
+ outlier_threshold_lower = outlier_mean_value -  std_dev_multiplier * outlier_std_deviation
+and see how it is doing. These formula are usd in the function def calculate_thresholds(df, std_dev_multiplier=1)
