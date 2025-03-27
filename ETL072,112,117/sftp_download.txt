@@ -1,0 +1,5 @@
+option batch abort
+option confirm off
+open sftp://report@orbitprotect.com:Today123$@securefile-apac.covermore.com -hostkey="ssh-ed25519 256 34:85:56:9e:1b:7e:01:93:e9:12:30:e8:14:6b:7f:fe"
+synchronize local "\\ulwibs01.aust.dmz.local\SFTPShares\Orbit Protect\Incoming" "/My Folder/Incoming report" -filemask=*>1D
+exit
